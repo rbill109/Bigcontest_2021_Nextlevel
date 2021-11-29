@@ -19,7 +19,7 @@
 - 예측에 필요한 설명변수들이 누락되어 Prophet과 Ridge, RandomForest를 활용해 이를 예측하여 결측치 처리
 - 시계열적 특성을 고려하기 위해 STL 분해와 Boosting 알고리즘을 결합한 새로운 모델인 STLB 개발 
 
-![](image/img1.PNG)
+![](image/그림1.png)
 
 - - -
 
