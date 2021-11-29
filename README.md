@@ -32,5 +32,5 @@ Next Level / 조유민, 남승지, 유은영, 조유림
 ### Role
 
 ### Presentation
-[발표 자료]()
+[발표 자료](https://github.com/rbill109/Bigcontest_2021_Nextlevel/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EB%B6%84%EC%95%BC_%ED%93%A8%EC%B2%98%EC%8A%A4%EB%A6%AC%EA%B7%B8_ECO%EC%A0%9C%EC%A3%BC_%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%8C%80_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
